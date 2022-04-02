@@ -1,7 +1,6 @@
 {
-	filters: 
-	[{
-            name: "Cannabis",
-            values: ["Hemp", "Hemp family"]
+	"filters": [{
+            "name": "Cannabis",
+            "values": ["Hemp", "Hemp family"]
     }]
 }
