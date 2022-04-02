@@ -1,5 +1,5 @@
 {
-    [{
+    fiters: [{
             name: "Cannabis"
             values: ["Hemp", "Hemp family"]
         }
