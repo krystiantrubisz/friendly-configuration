@@ -1,6 +1,6 @@
 {
 	"filters": [{
-            "name": "Cannabis",
-            "values": ["Hemp", "Hemp family"]
+            "name": "Horse",
+            "values": ["Horse"]
     }]
 }
